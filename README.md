@@ -1,2 +1,2 @@
 # datasciencecoursera
-## used for learning git
+## used for learning git & github
